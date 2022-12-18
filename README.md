@@ -84,6 +84,18 @@
 
 # 3.EJERCICIOS
 
+# 4.VIDEO
 
+https://www.youtube.com/watch?v=P9mGWCQrQrs
+
+# 5.CONCLUSIONES
+
+* En conclusion, comprender el funcionamiento de un circuito en serie-paralelo es escencial para de esta manera implementar los conceptos básicos para asi desarrollar los ejercicios de una manera práctica y ordenada.
+
+* Comprobar que las leyes de Kirchhoff no son las únicas con las que se pueden analizar los circuitos con el analisis se mallas y nodos que se han desarrollado en este parcial.
+
+# 6.BIBLIOGRAFÍA
+
+* Floyd, T. (2007). Principios de circuitos electricos (Octava edi). México: Pearson.
 
 
