@@ -104,7 +104,6 @@
 
 # 4.VIDEO
 
-https://www.youtube.com/watch?v=P9mGWCQrQrs
 
 # 5.CONCLUSIONES
 
